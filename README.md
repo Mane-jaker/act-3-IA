@@ -1,0 +1,1 @@
+Solo funciona con un entorno virtual en python 3.10 
